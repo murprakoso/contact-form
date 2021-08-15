@@ -1,0 +1,16 @@
+{
+    "name": "murprakoso/contactform",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Murprakoso\\Contactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "murprakoso",
+            "email": "prakoso.clan04@gmail.com"
+        }
+    ],
+    "require": {}
+}
